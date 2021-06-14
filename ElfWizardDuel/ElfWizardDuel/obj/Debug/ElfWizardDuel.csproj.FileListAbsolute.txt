@@ -1,0 +1,44 @@
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.exe.config
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.exe
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.pdb
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\App.g.cs
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel_MarkupCompile.cache
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel_MarkupCompile.lref
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.g.resources
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.Properties.Resources.resources
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.exe
+C:\Users\user\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.pdb
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.exe.config
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.exe
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.pdb
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\MainWindow.g.cs
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\App.g.cs
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel_MarkupCompile.cache
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel_MarkupCompile.lref
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\MainWindow.baml
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.g.resources
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.Properties.Resources.resources
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csproj.GenerateResource.cache
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.exe
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.pdb
+C:\Users\Sofia\Desktop\GitBitBucket Repos\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csprojAssemblyReference.cache
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.exe.config
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.exe
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\bin\Debug\ElfWizardDuel.pdb
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csprojAssemblyReference.cache
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\MainWindow.g.cs
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\App.g.cs
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel_MarkupCompile.cache
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel_MarkupCompile.lref
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\MainWindow.baml
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.g.resources
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.Properties.Resources.resources
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csproj.GenerateResource.cache
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.csproj.CoreCompileInputs.cache
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.exe
+D:\GitHubPortfolio\ElfWizardDuel\ElfWizardDuel\ElfWizardDuel\obj\Debug\ElfWizardDuel.pdb
